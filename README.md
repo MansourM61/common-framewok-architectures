@@ -1,5 +1,11 @@
-# common-framewok-architectures
+# Common Framework Architectures
+
 A collection of different architectures based on modern frameworks (Vite, Elysia, Hono)
+
+## Vite-Based Frontends
+
+1. Single-page Frontend vanilla TypeScript based on Vite with support of TSX: [vite-spa-plain-tsx](https://github.com/MansourM61/vite-spa-plain-tsx)
+2. Multi-page frontend vanilla TypeScript based on Vite with support of TSX: [vite-mpa-plain-tsx](https://github.com/MansourM61/vite-mpa-plain-tsx)
 
 ## Hono-Based Frameworks
 
